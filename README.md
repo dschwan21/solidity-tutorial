@@ -1,3 +1,3 @@
 # solidity-tutorial
-# working from the video from free code camp at: 
+# working from the video from free code camp at Free code camp
 #
