@@ -33,4 +33,15 @@ contract FundMe {
         uint256 ethAmountInUSD = (ethPrice * ethAmount) / 1000000000000000000;
         return ethAmountInUSD;
     }
+
+     modifier onlyOwner {
+        // wherever the "_;" is in the modifier, that is where the code will run afterwards
+        require(msg.sender == owner);
+        _;
+    }
+
+    function withdraw() payable onlyOwner public {
+        // only want the contract admin/owner
+        msg.sender.transfer(address(this).balance);
+    }
 }
