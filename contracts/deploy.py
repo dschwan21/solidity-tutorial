@@ -38,11 +38,13 @@ bytecode = compiled_sol["contracts"]["SimpleStorage.sol"]["SimpleStorage"]["evm"
 abi = compiled_sol["contracts"]["SimpleStorage.sol"]["SimpleStorage"]["abi"]
 
 # connect to the loclal blockchain from Ganache
-w3 = Web3(Web3.HTTPProvider("http://127.0.0.1:8545"))
-# chain or network id
-chain_id = 1337
+w3 = Web3(
+    Web3.HTTPProvider("https://rinkeby.infura.io/v3/4848e9e0028b4eb482871f0e436f05b5")
+)
+# chain or network id...find at https://chainlist.org/
+chain_id = 4
 # set the address of the account that will deploy the contract
-my_address = "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1"
+my_address = "0x1F3c6C8A8Db1775A673F5Aa7CE225c3b4A0F0240"
 # set the private key of the account that will deploy the contract
 private_key = os.getenv("PRIVATE_KEY")
 
