@@ -6,7 +6,7 @@
 
 
 # Lesson 1: Welcome to Remix! Simple Storage
-# Lesson 2:
+# Lesson 2: Storage Factory
 # Lesson 1:
 # Lesson 1:
 # Lesson 1:
