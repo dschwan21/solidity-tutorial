@@ -10,7 +10,7 @@
 # Lesson 3: Fund Me
 # Lesson 4: Web3.py Simple Storage
 # Lesson 5: Brownie Simple Storage
-# Lesson 1:
+# Lesson 6: Brownie Fund Me
 # Lesson 1:
 # Lesson 1:
 # Lesson 1:
