@@ -11,7 +11,7 @@
 # Lesson 4: Web3.py Simple Storage
 # Lesson 5: Brownie Simple Storage
 # Lesson 6: Brownie Fund Me
-# Lesson 1:
+# Lesson 7: SmartContract Lottery
 # Lesson 1:
 # Lesson 1:
 # Lesson 1:
