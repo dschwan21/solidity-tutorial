@@ -14,7 +14,7 @@
 # Lesson 7: SmartContract Lottery
 # Lesson 8: Chainlink Mix
 # Lesson 9: ERC20s, EIPs, and Token Standards
-# Lesson 10:
+# Lesson 10: Defi & Aave
 #
 #
 #
