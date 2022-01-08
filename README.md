@@ -2,7 +2,7 @@
 # Working from the video from free code camp at Free code camp
 # https://www.youtube.com/watch?v=M576WGiDBdQ
 
-# Lessons:
+# Lessons: Smart contracts
 
 
 # Lesson 1: Welcome to Remix! Simple Storage
