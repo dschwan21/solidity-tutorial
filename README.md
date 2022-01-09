@@ -1,5 +1,5 @@
 # solidity-tutorial
-# Working from the video from free code camp at Free code camp
+# Working from the video from free code camp at Free Code Camp
 # https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Lessons: Smart contracts
