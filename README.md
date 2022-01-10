@@ -1,4 +1,4 @@
-# solidity-tutorial
+# SOLIDITY AND SMART CONTRACT TUTORIAL
 # Working from the video from free code camp at Free Code Camp
 # https://www.youtube.com/watch?v=M576WGiDBdQ
 
