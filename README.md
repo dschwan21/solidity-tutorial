@@ -2,7 +2,7 @@
 # Following the video from Free Code Camp
 # https://www.youtube.com/watch?v=M576WGiDBdQ
 
-# Lessons: Smart Contracts
+# Lessons directory: Smart Contracts
 
 
 # Lesson 1: Welcome to Remix! Simple Storage
