@@ -1,6 +1,6 @@
 # SOLIDITY AND SMART CONTRACT TUTORIAL
 # Following the video from Free Code Camp
-# https://www.youtube.com/watch?v=M576WGiDBdQ
+# Link: https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Lessons directory: Smart Contracts
 
