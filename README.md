@@ -20,3 +20,4 @@
 # Lesson 13: Full Stack Defi
 # Lesson 14: Oracles
 # Lesson 15: Conclusion
+# Closing
